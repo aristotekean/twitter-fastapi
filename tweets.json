@@ -1,0 +1,61 @@
+[{
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "cxvzxcvbcxvcbxvbxcvbxvcb",
+    "created_at": "2022-08-01 14:56:52.461407",
+    "updated_at": "2022-08-01 19:57:03.406000+00:00",
+    "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "user@example.com",
+        "first_name": "string",
+        "last_name": "string",
+        "birth_day": "2022-08-01"
+    }
+}, {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "cxvzxcvbcxvcbxvbxcvbxvcb",
+    "created_at": "2022-08-01 14:56:52.461407",
+    "updated_at": "2022-08-01 19:57:03.406000+00:00",
+    "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "user@example.com",
+        "first_name": "string",
+        "last_name": "string",
+        "birth_day": "2022-08-01"
+    }
+}, {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "olaaaaaa",
+    "created_at": "2022-08-01 14:56:52.461407",
+    "updated_at": "2022-08-01 19:57:03.406000+00:00",
+    "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "user@example.com",
+        "first_name": "string",
+        "last_name": "string",
+        "birth_day": "2022-08-01"
+    }
+}, {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "i going to buy twiter",
+    "created_at": "2022-08-01 14:56:52.461407",
+    "updated_at": "2022-08-01 19:57:03.406000+00:00",
+    "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "user@example.com",
+        "first_name": "string",
+        "last_name": "string",
+        "birth_day": "2022-08-01"
+    }
+}, {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "jijiji",
+    "created_at": "2022-08-01 14:56:52.461407",
+    "updated_at": "2022-08-01 19:57:03.406000+00:00",
+    "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "user@example.com",
+        "first_name": "rocio",
+        "last_name": "hurtado",
+        "birth_day": "2022-08-01"
+    }
+}]
