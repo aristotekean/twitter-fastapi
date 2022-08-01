@@ -71,8 +71,6 @@ def signup(user: UserRegister = Body(...)):
         return user
 
 # Login a user
-
-
 @app.post(path="/login", response_model=User, status_code=status.HTTP_200_OK, summary="Login a User", tags=["Users"])
 def login():
     pass
@@ -96,8 +94,6 @@ def show_users():
         return results
 
 # Show a user
-
-
 @app.get(path="/users/{user_id}", response_model=User, status_code=status.HTTP_200_OK, summary="Show a User", tags=["Users"])
 def show_user():
     pass
@@ -121,7 +117,19 @@ def update_user():
 # Show all tweets
 @app.get(path="/", response_model=List[Tweet], status_code=status.HTTP_200_OK, summary="Show all tweets", tags=["Tweets"])
 def show_tweets():
-    return {"titter api": "woriking!"}
+    """
+    Show all tweets
+
+    This path operation show all tweets in the app
+
+    Parameters:
+        -
+
+    Returns a json list with all tweets in the app
+    """
+    with open("tweets.json", "r", encoding="utf-8") as f:
+        results = json.loads(f.read())
+        return results
 
 
 # Post a tweet
